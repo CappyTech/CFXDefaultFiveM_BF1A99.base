@@ -1,0 +1,86 @@
+- usssptorrence --> Torrence
+- ussspstanier --> Stanier with Light
+- ussspstanier2 --> Stanier slicktop
+- ussspscout --> Scout
+- ussspalamo --> Alamo
+- ussspbike --> Bike
+- ussspbombs --> Sandking (Vehicle Inspection Team)
+- ussspbuffalo --> Buffalo
+- ussspgranger --> Granger (Classic & K9)
+
+• FIBP - Stanier
+• FIBP1A - Stanier (Supervisor)
+• FIBP2 - Buffalo A/C
+• FIBP3 - Torrence
+• FIBP4 - Alamo
+• FIBP42 - Alamo (K-9)
+• FIBP5 - Granger
+• FIBP6 - Scout
+• FIBP62 - Scout (K-9)
+• FIBP7 - Rumpo
+• FIBP8 - Pigeon Patrol
+
+• DOAPATRIOT - DOA Patriot
+
+• USMSBUFFALO: Bravado Buffalo '08
+• USMSCOACH: Dashhound Coach
+• USMSGRANGER: Declasse Granger (SRT/SOG)
+• USMSMERIT: Declasse Merit
+• USMSPATRIOT: Mammoth Patriot Classic (SRT/SOG)
+• USMSRUMPO: Bravado Rumpo
+• USMSWASHINGTON: Albany Washington
+
+• FATBUFFALO - Bravado Buffalo '08
+• FATTORRENCE - Vapid Torrence
+• FATSTALKER - Landstalker SWB
+• FATEVERON - Karin Everon
+• PARKPOL - USPP Stanier
+
+• U.S. Patriotism and Immigration Authority - based on the U.S. Customs and Border Protection
+• (PIA) U.S. Border Patrol
+• (PIA) Office of Field Operations
+• (PIA) Air and Marine Operations
+• Tactical Response Unit - based on the CBP/ICE Special Response Teams
+• Transportation Security Service - based on the Transportation Security Administration
+• Security Enforcement Police - based on the Federal Protective Service
+
+• SAHP - Stanier
+• SAHP1A - Stanier (Slicktop)
+• SAHP1B - Stanier (K-9)
+• SAHP1C - Stanier (Vector)
+• SAHP1D - Stanier (CVE/PCF)
+• SAHP2 - Buffalo S
+• SAHP2A - Buffalo S (Slicktop/PCF)
+• SAHP22 - Buffalo AC
+• SAHP22A - Buffalo AC (Slicktop/PCF)
+• SAHP3 - Scout
+• SAHP3A - Scout (Slicktop/PCF)
+• SAHP3B - Scout (K-9)
+• SAHP4 - Trek
+• SAHP4A - Trek (Vector)
+• SAHP5 - Alamo
+• SAHP5A - Alamo (Slicktop)
+• SAHP6 - Sandking SWB
+• SAHP6A - Sandking SWB (Slicktop)
+• SAHPB - WinterGreen Motorcycle
+• SAHPB2 - Thrust Motorcycle
+• SAHPAIR - Maverick Helicopter
+
+• LGUARDMESA - Lifeguard Mesa SWB
+
+ULSAPD - Stanier
+ULSAPD1A - Stanier (slicktop)
+ULSAPD2 - Scout
+ULSAPD3 - Alamo (K-9)
+ULSAPD4 - Merit (Unmarked)
+ULSAPDOLD - Stanier (Legacy)
+ULSAEMS - EMS Scout
+ULSAEMS2 - Speedo (Box) Ambulance
+ULSAEMS3 - Speedo Ambulance
+ULSA - Health Inspector Dilettante
+
+• RIOT3 - Stock Law Enforcement Package
+• CENTURION - Stock Package
+• CENTURIONFIB - FIB Variant
+• CENTURIONLSPD - LSPD Variant
+• CENTURIONLSSD - LSSD Variant
