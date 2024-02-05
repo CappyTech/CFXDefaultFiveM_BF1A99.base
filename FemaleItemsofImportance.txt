@@ -1,0 +1,103 @@
+Pants
+18 - Firefighter
+30 - SWAT
+46 - Pilot Orange
+48 - Firefighter Dirty
+72 - Pilot Orange
+89 - Army Pants
+90 - Army Pants Short
+Texture 6 Tan/Sand
+Texture 7 Green
+Texture 12 Dark
+126 - Firefighter
+127 - SWAT
+
+Bags
+31 - Airport Police Badge
+32 - Police Badge
+33 - Corrections Badge
+34 - FIB Badge
+35 - Immgration Badge
+36 - State Park Badge
+37 - Paramedic Badge
+39 - Security Officer Badge
+
+44 - Police Bag Empty
+45 - Police Bag
+
+52 - Los Santos Police Badge
+53 - Sherrif (Los Santos County) Badge
+54 - Sherrif (Blaine County) Badge
+55 - SAHP Badge
+
+58 - FIB Necklace
+59 - LS Detective Necklace
+60 - Sherrif (Blaine County) Necklace
+70 - FD Paramedic Badge
+71 - Blaine County Badge
+72 - Rockford Hills Badge
+73 - Del Perro Badge
+
+73 - Belt Los Santos Police Badge
+
+Shoes
+54 - Boots
+55 - Boots Tall
+
+Jacket
+18 - LSFD
+21 - Sherrif Winter Coat
+23 - Lifeguard polo
+25 - LSFD Short
+26 - LSFD Long
+31 - HP Long
+33 - HP Short
+38 - Costguard
+40 - Corrections
+44 - FIB Short
+48 - LSPD Slack Short
+64 - Firefighter Closed
+73 - Firefighter Open
+84 - Polo LSPD / SWAT
+85 - Polo Sherrif
+88 - Border Patrol Short
+89 - Border Patrol Long
+90 - Sherrif Long
+91 - Sherrif Short
+92 - LSPD K9 Long
+93 - LSPD K9 Short
+94 - HP Coat Open
+103 - Polie Turtleneck
+119 - Airport Police
+151 - Police Coat Closed
+152 - Pilot Orange
+153 - Sherrif Open
+163 - Sherrif Blaine County Long
+168 - FIB Coat, Different Deps
+172 - Police Coat Open
+179 - FIB Coat, Different Deps
+185 - Sherrif Blaine County Short
+192 - Slack Short Buttons
+195 - Slack Long Buttons
+202 - Long Tie Buttons
+224 - Tee Police
+Texture 0 Police
+Texture 1 Sherrif
+
+258 - EMS Shirt Blue/Green
+
+326 - Firefighter
+327 - Long
+328 - Long Slack
+329 - Short
+330 - Short Slack
+^ different colours
+331 - SWAT 
+
+Spawn Locations
+
+454.9085, -1726.2372, 28.9509, 204.0121
+
+442.4244, -1766.4602, 28.8786, 125.9996
+
+408.7218, -1819.2585, 28.4927, 328.5637
