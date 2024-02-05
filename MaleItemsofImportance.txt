@@ -1,0 +1,255 @@
+Male
+
+Jackets
+
+22 - Lifeguard polo
+17 - Sherrif Winter Coat
+320 - SWAT
+319 - Slack Short
+318 - Short
+317 - Slack Long
+316 - Long
+^ different colours
+315 - Firefighter Slack
+314 - Firefighter Closed
+200 - Long Tie Buttons
+193 - Slack Long Tie Buttons
+190 - Slack Short Buttons
+183 - Sherrif Short
+166 - Sherrif Long
+156 - Sherrif Coat Green Open
+155 - Pilot Orange
+154 - Coat
+55 - Slack Short Buttons
+41 - Costguard
+39 - Coat Open
+36 - FIB More Open , Different Deps
+35 - FIB Open , Different Deps
+32 - HP Slack Long
+31 - HP Slack Short
+171 - Post Op
+
+Shirt
+
+58 - Belt Radio Baton
+57 - Belt Radio Side
+56 - Belt Radio Side Gun
+55 - Belt Sideways Pouch Radio Baton
+54 - Belt Radio
+53 - Belt Sideways Pouch Tazer Baton Radio
+49 - Belt Sideways Pouch Radio Baton
+44 - Belt Radio Baton Keys
+43 - HP Badge Belt Radio
+42 - Belt Radio Baton Keys Front
+41 - Stab Vest
+39 - Belt Sideways Pouch Radio Baton Keys Front
+38 - Belt Sideways Pouch Radio Tazer Baton Keys Front
+37 - Belt Sideways Pouch Radio Baton Keys Front
+20 - Belt US Customs And Border
+19 - Medical Front Pouch
+
+18 - Shoulder Gun Holsters Empty
+16 - Shoulder Gun Holsters
+
+Bags
+31 - Airport Police Badge
+32 - Police Badge
+33 - Corrections Badge
+34 - FIB Badge
+35 - Immgration Badge
+36 - State Park Badge
+37 - Paramedic Badge
+39 - Security Officer Badge
+
+44 - Police Bag Empty
+45 - Police Bag
+
+52 - Los Santos Police Badge
+53 - Sherrif (Los Santos County) Badge
+54 - Sherrif (Blaine County) Badge
+55 - SAHP Badge
+
+58 - FIB Necklace
+59 - LS Detective Necklace
+60 - Sherrif (Blaine County) Necklace
+70 - FD Paramedic Badge
+71 - Blaine County Badge
+72 - Rockford Hills Badge
+73 - Del Perro Badge
+
+73 - Belt Los Santos Police Badge
+
+Scarf and Chais
+1 - Drop Leg Gun
+2 - Holster
+3 - Drop Leg
+5 - Holster Mags Hip
+6 - Holster Mags Gun Hip
+8 - Holster Gun Hip
+
+10 - Tie American Flag
+13 - American Flag
+
+15 - Radio
+
+20 - Shirt Vest Police
+
+30 - Doctor Item
+
+42 - White Holster Gun
+43 - White Holster
+
+110 - Holster Gun
+111 - Holster
+
+115 - Tie American Flag
+
+119 - Front Holster Gun
+120 - Front Holster
+121 - Hip Holster Small
+121 - Hip Holster Small Revolver
+
+125 - IAA and Belt Badge
+
+126 - Doctor Item
+127 - Medical Card
+
+128 - IAA Necklace
+
+133 - SWAT Body Pouches
+146 - SWAT Body Pouches
+147 - SWAT Body Pouches Gun
+148 - SWAT Body Pouches Holster
+
+Pants
+19 - Firefighter Dirty
+31 - Swat
+43 - Firefighter Clean
+44 - Pilot Orange
+70 - Pilot Orange
+120 - Firefighter Slim
+121 - Swat
+
+86 - Army Pants
+87 - Army Pants Short
+Texture 6 Tan/Sand
+Texture 7 Green
+Texture 12 Dark
+
+Shoes
+54 - Boots
+55 - Boots Tall
+
+Body Armour 
+58 - Lifeguard
+53 - FIB Necklace
+53 - FIB Necklace 2
+1 - Radio Comms Chest
+2 - Belt Radio Comms Chest
+3 - Hi-vis Vest Dirty
+5 - Shirt Vest Police
+7 - Body Armor Full Police
+10 - Hi-vis Vest Clean
+11 - Border Patrol Vest
+12 - SAHP Vest
+13 - Radio Shoulder
+14 - Radio Chest
+
+15 - Army Vest
+Texture 2 Black
+16 - Army Vest LSPD
+
+17 - Necklace Blaine County
+
+18 - Full Police Vest
+19 - Shirt Police Tie
+21 - LSPD Necklace
+22 - FIB with handcuffs
+
+Decals
+1 - 2 Chervons
+2 - 3 Chervons
+3 - Swat Badge Arm
+4 - Sherrif Badge Arm
+5 - TRU Badge
+6 - Sherrif Blaine County
+7 - 3 Chervons Blue Gold
+8 - Police Command Pilot
+9 - HP Badge Arm
+10 - 4 Chervons
+11 - 2 Chervons
+12 - 2 Chervons Ex White Lower
+13 - SWAT FIB
+15 - 2 Chervons White
+
+21 - Airforce
+22 - Army
+24 - Coastguard
+
+25 - Corrections Number Prisoner
+
+24 - Coastguard Badge Arm
+
+57 - Firefighter Badge Arm
+58 - Fire and Rescue
+59 - Paramedic Badge Arm
+
+66 - Bugstar Badge Arm Small
+67 - Bugstar Badge Arm Big
+
+70 - NOOSE
+72 - Corrections Badge
+77 - Corrections Badge
+
+78 - Shoulder Chevrons
+
+106 - State Pen
+
+Hats
+1 - LS Hat
+8 - Blaine County Hat
+Texture 0 - Blaine County
+Texture 1 - Sherrif LC
+Texture 2 - HP
+Texture 3 - State Park
+Texture 4 - Blaine County Brown
+Texture 4 - Blaine County Green
+10 - Sherrif Cap
+Texture 0 - Sherrif
+Texture 1 - State Park
+Texture 2 - Noose
+Texture 4 - FIB
+Texture 5 - NO Security Enforcement
+Texture 7 - Blaine County
+13 - Sherrif Hat
+Texture 0 - Sherrif
+Texture 1 - Blaine County Green
+Texture 2 - HP
+Texture 1 - Blaine County Brown
+17 - Bike Helmet
+Texture 0 - HP
+Texture 1 - State Parks Unknown
+Texture 2 - Sherrif Green
+Texture 3 - Blaine County Green
+Texture 3 - Blaine County Brown
+33 - Sherrif Hat Fedora
+Texture 0 - Sherrif
+Texture 1 - Blaine County
+45 - Firefighter Hat
+46 - Police Hat
+48 - Bike Visor Port Authority
+49 - Bike Helmet
+39 - Swat Helmet
+Texture 2 - Black
+58 - Swat Hat
+87 - Coastguard Helmet Orange
+90 - Coastguard Helmet Yellow
+106 - Swat Commander
+107 - Swat Sergeant
+111 - Pilot Orange
+122 - Paramedic Hat Blue/Green 0/1
+137 - Firefighter Hat
+138 - Firefighter Hat Goggles
+139 - Prison Authority Hat /1
+140 - Prison Authority Hat Back /1
+141 - Swat Helmet
